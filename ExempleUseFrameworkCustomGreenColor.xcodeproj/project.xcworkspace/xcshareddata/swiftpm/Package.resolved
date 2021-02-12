@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FrameworkCustomGreenColor",
+        "repositoryURL": "https://github.com/fredMilloh/FrameworkCustomGreenColor",
+        "state": {
+          "branch": "master",
+          "revision": "d9a91451d2a6599d55b4fcc7868b9ff323cbcdfd",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
