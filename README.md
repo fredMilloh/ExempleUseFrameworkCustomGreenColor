@@ -1,6 +1,8 @@
 # ExempleUseFrameworkCustomGreenColor
 Use framework (framworkCustomGreenColor) made with Swift Package Manager
 
+Simple exemple qui change la couleur du background par la couleur définit dans le framework
+
 Pour ajouter le framework au projet :
 
 Dans xCode, ouvrir le projet existant.
@@ -26,6 +28,8 @@ Appel de la fonction du framework : getCustomGreen() dans viewDidLoad par exempl
 Si la fonction getCustomGreen() n'apparait pas lors de l'appel, verifier que le framework est documenté ( ///......) et spécifié en privé ou public
 
 ___________________________________________________________________________________________
+
+Simple example that changes the color of the background by the color defined in the framework
 
 To add the framework to the existing project :
 
