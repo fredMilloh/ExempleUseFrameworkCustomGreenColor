@@ -8,9 +8,11 @@ Dans xCode, ouvrir le projet existant.
 Selectionner File/Swift Packages/Add Package Dependency
 
 Dans la fenetre qui s'ouvre, renseigner l'URL github du framework repository
+
 <img width="450" alt="Capture d’écran 2021-02-12 à 16 47 43" src="https://user-images.githubusercontent.com/47221695/107789849-668a0800-6d52-11eb-8c38-2d6df1dde44a.png">
 
 Dans la suivante, Choose Package Options : selectionner Branch : - master
+
 <img width="450" alt="Capture d’écran 2021-02-12 à 16 51 27" src="https://user-images.githubusercontent.com/47221695/107790148-bf59a080-6d52-11eb-9891-a618d7ae3f76.png">
 
 Puis Next et Finish
@@ -23,6 +25,7 @@ Appel de la fonction du framework : getCustomGreen() dans viewDidLoad par exempl
 
 Si la fonction getCustomGreen() n'apparait pas lors de l'appel, verifier que le framework est documenté ( ///......) et spécifié en privé ou public
 
+___________________________________________________________________________________________
 
 To add the framework to the existing project :
 
